@@ -19,4 +19,4 @@
 ## Setup
 
 - No setup required use link below to view website.
--
+- https://main.d1tprhcsx87eu1.amplifyapp.com/
